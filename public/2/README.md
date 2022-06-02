@@ -2,7 +2,7 @@
 
 Web app to create Resume in a customizable template with the facility to save the file in .pdf formate.  
 
-###### Live Demo : https://online-resumebuilder.herokuapp.com//
+###### Live Demo : https://online-resumebuilder.herokuapp.com/
 
 ###### Technologies: HTML, CSS, JavaScript
 
